@@ -1,4 +1,3 @@
 practing branchings and merging 
 
-hello world
-
+today I will be practing my git commands and try to fully understand what I am doing.
